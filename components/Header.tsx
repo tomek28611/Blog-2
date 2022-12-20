@@ -8,13 +8,13 @@ const Header = () => {
         <div className="flex items-center space-x-2">
             <Link href="/">
                 <img
-                    src="al_color.webp"
+                    src="/al_color.webp"
                     width={50} height={50}
                     className="rounded-full"
                     alt="logo"
                 />
             </Link>
-            <h1>AL</h1>
+            <h1>TOM</h1>
         </div>
 
         <div className="">
