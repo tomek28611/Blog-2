@@ -20,7 +20,7 @@ const Header = () => {
         <div className="">
         <Link href="/"
             className="px-5 py-3 text-sm md:text-base bg-gray-900 text-orange-400 flex items-center rounded-full">
-            Programming Services
+            Contact
         </Link>
         </div>
 
