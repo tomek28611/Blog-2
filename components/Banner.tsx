@@ -15,7 +15,7 @@ function Banner() {
         </div>
 
         <p className="mt-5 md:mt-2 text-gray-400 max-w-sm">
-            Ecommerce | Blogs | Chats | NFTs | MERN
+            Ecommerce | Blogs | Video | Chats | NFTs | MERN
         </p>
     </div>
   )
